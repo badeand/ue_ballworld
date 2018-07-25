@@ -1,0 +1,8 @@
+/Users/badeand/dev/UE_OSC/Plugins/OSC/Source/OSC/Private/Common/OscDataElemStruct.h
+/Users/badeand/dev/UE_OSC/Plugins/OSC/Source/OSC/Private/Common/OscDataStruct.h
+/Users/badeand/dev/UE_OSC/Plugins/OSC/Source/OSC/Private/Common/OscFunctionLibrary.h
+/Users/badeand/dev/UE_OSC/Plugins/OSC/Source/OSC/Private/Common/OscMessageStruct.h
+/Users/badeand/dev/UE_OSC/Plugins/OSC/Source/OSC/Private/Receive/OscDispatcher.h
+/Users/badeand/dev/UE_OSC/Plugins/OSC/Source/OSC/Private/Receive/OscReceiverActor.h
+/Users/badeand/dev/UE_OSC/Plugins/OSC/Source/OSC/Private/Receive/OscReceiverComponent.h
+/Users/badeand/dev/UE_OSC/Plugins/OSC/Source/OSC/Private/OscSettings.h
